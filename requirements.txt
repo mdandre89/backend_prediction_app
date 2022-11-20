@@ -1,0 +1,4 @@
+fastapi
+fastai==1.0.61
+pathlib
+python-multipart
